@@ -11,5 +11,15 @@ wifi晶片使用ESP8266 (ESP-01S)
 
 線路接法
 --------
-DHT：    
+DHT：
+
     - → GND
+      → 5V
+    s → Digital 2
+    
+wifi：
+
+    3V3 → 3.3V
+    RX → Digital 5
+    TX → Digital 4
+    GND → GND

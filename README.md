@@ -17,6 +17,7 @@ DHT：
       → 5V    
     s → Digital 2 
        
+
 wifi：
 
     3V3 → 3.3V 

@@ -8,3 +8,7 @@ http://modtronix.com/images/detailed/1/mod-dht11.jpg
 wifi晶片使用ESP8266 (ESP-01S)
 
 程式碼為自動將溫溼度讀取後透過wifi晶片連網並存至資料庫
+
+###線路接法
+DHT：
+- → GND

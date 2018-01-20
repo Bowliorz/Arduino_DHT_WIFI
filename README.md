@@ -20,7 +20,7 @@ DHT：
 
 wifi：
 
-    3V3 → 3.3V 
-    RX → Digital 5     
-    TX → Digital 4      
+    3V3 → 3.3V    
+    RX → Digital 5    
+    TX → Digital 4    
     GND → GND    
